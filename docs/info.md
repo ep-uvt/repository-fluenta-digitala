@@ -1,0 +1,1 @@
+This folder has the purpose of storing documents (.pdf, .pptx etc.)
